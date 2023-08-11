@@ -1,0 +1,1 @@
+该项目是基于zookeeper分布式器,protobuf库和muduo库实现的分布式通信框架。一个工程可以在多个服务器上实现。在该项目中，主要使用zookeeper的注册中心服务来保存各个服务器的ip和port，客户端通过该注册中心来访问各个服务的函数。利用zookeeper自身API的心跳机制
