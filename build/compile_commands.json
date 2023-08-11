@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/nocoder/mprpc/build/src",
+  "command": "/usr/bin/g++   -I/home/nocoder/mprpc/src/include -I/home/nocoder/mprpc/example  -g   -o CMakeFiles/mprpc.dir/logger.cc.o -c /home/nocoder/mprpc/src/logger.cc",
+  "file": "/home/nocoder/mprpc/src/logger.cc"
+},
+{
+  "directory": "/home/nocoder/mprpc/build/src",
+  "command": "/usr/bin/g++   -I/home/nocoder/mprpc/src/include -I/home/nocoder/mprpc/example  -g   -o CMakeFiles/mprpc.dir/mprpcapplication.cc.o -c /home/nocoder/mprpc/src/mprpcapplication.cc",
+  "file": "/home/nocoder/mprpc/src/mprpcapplication.cc"
+},
+{
+  "directory": "/home/nocoder/mprpc/build/src",
+  "command": "/usr/bin/g++   -I/home/nocoder/mprpc/src/include -I/home/nocoder/mprpc/example  -g   -o CMakeFiles/mprpc.dir/mprpcchannel.cc.o -c /home/nocoder/mprpc/src/mprpcchannel.cc",
+  "file": "/home/nocoder/mprpc/src/mprpcchannel.cc"
+},
+{
+  "directory": "/home/nocoder/mprpc/build/src",
+  "command": "/usr/bin/g++   -I/home/nocoder/mprpc/src/include -I/home/nocoder/mprpc/example  -g   -o CMakeFiles/mprpc.dir/mprpcconfig.cc.o -c /home/nocoder/mprpc/src/mprpcconfig.cc",
+  "file": "/home/nocoder/mprpc/src/mprpcconfig.cc"
+},
+{
+  "directory": "/home/nocoder/mprpc/build/src",
+  "command": "/usr/bin/g++   -I/home/nocoder/mprpc/src/include -I/home/nocoder/mprpc/example  -g   -o CMakeFiles/mprpc.dir/mprpccontroller.cc.o -c /home/nocoder/mprpc/src/mprpccontroller.cc",
+  "file": "/home/nocoder/mprpc/src/mprpccontroller.cc"
+},
+{
+  "directory": "/home/nocoder/mprpc/build/src",
+  "command": "/usr/bin/g++   -I/home/nocoder/mprpc/src/include -I/home/nocoder/mprpc/example  -g   -o CMakeFiles/mprpc.dir/rpcheader.pb.cc.o -c /home/nocoder/mprpc/src/rpcheader.pb.cc",
+  "file": "/home/nocoder/mprpc/src/rpcheader.pb.cc"
+},
+{
+  "directory": "/home/nocoder/mprpc/build/src",
+  "command": "/usr/bin/g++   -I/home/nocoder/mprpc/src/include -I/home/nocoder/mprpc/example  -g   -o CMakeFiles/mprpc.dir/rpcprovider.cc.o -c /home/nocoder/mprpc/src/rpcprovider.cc",
+  "file": "/home/nocoder/mprpc/src/rpcprovider.cc"
+},
+{
+  "directory": "/home/nocoder/mprpc/build/src",
+  "command": "/usr/bin/g++   -I/home/nocoder/mprpc/src/include -I/home/nocoder/mprpc/example  -g   -o CMakeFiles/mprpc.dir/zookeeperutil.cc.o -c /home/nocoder/mprpc/src/zookeeperutil.cc",
+  "file": "/home/nocoder/mprpc/src/zookeeperutil.cc"
+},
+{
+  "directory": "/home/nocoder/mprpc/build/example/callee",
+  "command": "/usr/bin/g++   -I/home/nocoder/mprpc/src/include -I/home/nocoder/mprpc/example  -g   -o CMakeFiles/provider.dir/friendservice.cc.o -c /home/nocoder/mprpc/example/callee/friendservice.cc",
+  "file": "/home/nocoder/mprpc/example/callee/friendservice.cc"
+},
+{
+  "directory": "/home/nocoder/mprpc/build/example/callee",
+  "command": "/usr/bin/g++   -I/home/nocoder/mprpc/src/include -I/home/nocoder/mprpc/example  -g   -o CMakeFiles/provider.dir/__/friend.pb.cc.o -c /home/nocoder/mprpc/example/friend.pb.cc",
+  "file": "/home/nocoder/mprpc/example/friend.pb.cc"
+},
+{
+  "directory": "/home/nocoder/mprpc/build/example/caller",
+  "command": "/usr/bin/g++   -I/home/nocoder/mprpc/src/include -I/home/nocoder/mprpc/example  -g   -o CMakeFiles/consumer.dir/callfriendservice.cc.o -c /home/nocoder/mprpc/example/caller/callfriendservice.cc",
+  "file": "/home/nocoder/mprpc/example/caller/callfriendservice.cc"
+},
+{
+  "directory": "/home/nocoder/mprpc/build/example/caller",
+  "command": "/usr/bin/g++   -I/home/nocoder/mprpc/src/include -I/home/nocoder/mprpc/example  -g   -o CMakeFiles/consumer.dir/__/friend.pb.cc.o -c /home/nocoder/mprpc/example/friend.pb.cc",
+  "file": "/home/nocoder/mprpc/example/friend.pb.cc"
+}
+]

@@ -1,0 +1,2 @@
+17:14:34=>frist log message!
+17:14:34=>/home/nocoder/mprpc/example/callee/friendservice.cc:main:39
